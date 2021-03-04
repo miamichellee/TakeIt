@@ -22,3 +22,44 @@
     •	User can search by category 
 
     •	User can send an offer using a messaging system
+
+
+
+## 2. Screen Archetypes
+
+Login Screen
+* User can login
+ 
+Registration Screen
+* User can create a new account
+
+Stream
+
+* User can view a feed of photos
+* User can comment on a post
+
+Creation
+* User can post a new photo to their feed
+
+
+## 3. Navigation
+### Tab Navigation (Tab to Screen)
+
+Home Feed
+Post a Photo
+
+### Screen Navigation
+
+Login Screen
+=> Home
+Registration Screen
+=> Home
+Stream Screen
+=> None, but future version will likely involve navigation to a detailed screen to see comments for each photo.
+Creation Screen
+=> Home (after you finish posting the photo)
+=> Home (after you finish commenting on a post)
+Home
+=>Login Screen (after you sign out)
+
+
