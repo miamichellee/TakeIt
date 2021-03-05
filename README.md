@@ -39,6 +39,8 @@ This application allows users to post and sale items that they no longer need or
 
 * User can search by category 
 *	User can send an offer using a messaging system
+*	User can visit another person's profile to view all their items for sale
+*	User can view own profile
 
 ### 2. Screen Archetypes
 
