@@ -28,38 +28,47 @@ This application allows users to post and sale items that they no longer need or
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can post a new photo to their feed that includes a description of the product
+*	User can create a new account
+*	User can login and log out
+*	User can view a feed of photos
+*	User can view location of the item posted
+*	User can comment on a post
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can search by category 
+*	User can send an offer using a messaging system
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen
+   * User can login
+
+* Registration Screen
+   * User can create a new account
+
+* Stream
+   * User can view a feed of photos
+   * User can comment on a post
+
+* Creation
+   * User can post a new photo to their feed
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Feed
+* Post a Photo
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
+* Login Screen
+   * Home
    * ...
-* [list second screen here]
-   * [list screen navigation here]
+* Registration Screen
+   * Home
    * ...
 
 ## Wireframes
