@@ -63,15 +63,14 @@ This application allows users to post and sale items that they no longer need or
 
 * Home Feed
 * Post a Photo
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
-* Login Screen
-   * Home
-   * ...
-* Registration Screen
-   * Home
-   * ...
+* Login Screen -> If no account, sign up.
+* Successful Registration/Login -> Home Feed
+* Post a Photo -> Camera opens, photo taken, post created -> Home Feed with new post.
+* Profile -> Logout
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
